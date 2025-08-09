@@ -4,7 +4,8 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-## About me
+<h2 align="center">🧑🏻‍💻 About Me</h2>
+
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://tlgg.ru/)
 
 I'm an iOS developer from Russia, studying at Peter the Great Saint Petersburg University with a degree in Fundamental Computer Science and Information Technology. 
@@ -30,6 +31,8 @@ I'm interested in developing apps for iOS devices and for the Apple ecosystem in
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssukharev&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
    <br>
    <img src="https://github-readme-stats.vercel.app/api?username=ssukharev&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
+   <br>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssukharev&theme=dracula&hide_border=true&bg_color=00000000"/>
   </p>
 </details>
 <!--

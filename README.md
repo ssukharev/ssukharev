@@ -23,6 +23,15 @@ I'm interested in developing apps for iOS devices and for the Apple ecosystem in
     <br>
   </p>
 </details>
+
+<details align="left">
+  <summary><h2><b>⭐GitHub stats</b></h2></summary>
+  <p>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssukharev&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
+   <br>
+   <img src="https://github-readme-stats.vercel.app/api?username=ssukharev&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
+  </p>
+</details>
 <!--
 **ssukharev/ssukharev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

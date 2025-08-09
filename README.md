@@ -19,7 +19,7 @@ I'm interested in developing apps for iOS devices and for the Apple ecosystem in
     <h3>Frameworks / Tools</h3>
     <img src="https://skillicons.dev/icons?i=maven,linux,githubactions,docker,git&perline=7" />
     <h3>Software</h3>
-    <img src="https://skillicons.dev/icons?i=vscode,idea,gitlab&perline=7" />
+    <img src="https://skillicons.dev/icons?i=vscode,idea,gitlab,notion&perline=7" />
     <br>
   </p>
 </details>

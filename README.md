@@ -6,7 +6,7 @@
 
 <h2 align="center">🧑🏻‍💻 About Me</h2>
 
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://tlgg.ru/)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/ssukharevv)
 
 I'm an iOS developer from Russia, studying at Peter the Great Saint Petersburg University with a degree in Fundamental Computer Science and Information Technology. 
 

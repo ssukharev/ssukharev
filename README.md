@@ -32,7 +32,7 @@ I'm interested in developing apps for iOS devices and for the Apple ecosystem in
    <br>
    <img src="https://github-readme-stats.vercel.app/api?username=ssukharev&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
    <br>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Orudzhiev-rn&theme=dracula&hide_border=true&bg_color=00000000" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssukharev&theme=dracula&hide_border=true&bg_color=00000000" />
   </p>
 </details>
 <!--
